@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-seo-tag'
     gem 'jemoji'
     gem 'mini_racer', '~> 0.3.1', platforms: :ruby
     gem 'unicode_utils'
