@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Car Accident Insights
-description: Identifying Car Accident Factors in Los Angeles. Time, Weather, and Area Characteristics. An analysis with PowerBI Interactive Dashboards
-img: assets/img/accident.jpg
-redirect: https://github.com/kpsalida/PowerBI__City-of-LA-Accident-Factors
-importance: 4
+title: Extreme Weather Conditions and Alerting
+description:  Data Engineering Project
+img: assets/img/extremeweatherconditions.jpg
+redirect: https://github.com/kpsalida/Extreme_Weather_Conditions_and_Alerting
+importance: 5
 category: DataScience
 ---
 
