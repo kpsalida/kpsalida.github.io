@@ -200,7 +200,7 @@ collections:
 #    permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /:collection/:title/
+    permalink: /projects/:name/
 
 #announcements:
 #  enabled: false

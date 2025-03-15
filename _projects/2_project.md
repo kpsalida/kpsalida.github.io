@@ -6,6 +6,6 @@ img: assets/img/electricity.jpg
 redirect: "https://github.com/kpsalida/ppc-forecasting"
 importance: 1
 category: DataScience
-
 ---
+
 

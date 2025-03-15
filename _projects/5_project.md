@@ -2,7 +2,7 @@
 layout: page
 title: Extreme Weather Conditions and Alerting
 description:  Data Engineering Project
-img: assets/img/extremeweatherconditions.jpg
+img: assets/img/extremeweather.jpg
 redirect: https://github.com/kpsalida/Extreme_Weather_Conditions_and_Alerting
 importance: 5
 category: DataScience
